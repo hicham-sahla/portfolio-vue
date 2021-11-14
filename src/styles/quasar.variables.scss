@@ -1,5 +1,4 @@
-// It's highly recommended to change the default colors
-// to match your app's branding.
+// Standart brand colors
 
 $primary   : #2F2FA2;
 $secondary : #F64C72;
@@ -10,8 +9,7 @@ $negative  : #C10015;
 $info      : #31CCEC;
 $warning   : #F2C037;
 
-// breakpoint variable, from https://quasar.dev/style/breakpoints
-// Except the xs one because I think 600px is too small
+// responsive Container specs
 $xs-breakpoint: 718px;
 $sm-breakpoint: 1024px;
 $md-breakpoint: 1439px;
