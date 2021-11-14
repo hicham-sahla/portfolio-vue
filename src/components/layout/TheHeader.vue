@@ -5,9 +5,6 @@
   <q-page-container id="PageHeader">
     <PageHeader />
   </q-page-container>
-    <q-page-container id="PageHeader">
-    <PageHeader />
-  </q-page-container>
 </template>
 
 <script>

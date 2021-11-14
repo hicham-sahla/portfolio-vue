@@ -1,6 +1,9 @@
 @import "./quasar.variables.scss";
 @import "~quasar-styl";
 
+// Import general .SCSS files
+@import "general.scss";
+
 // Import layout .SCSS files
 @import "layout/TheHeader.scss";
 

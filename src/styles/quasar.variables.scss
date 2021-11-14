@@ -1,4 +1,4 @@
-// Standart brand colors
+// Standard brand colors
 
 $primary   : #2F2FA2;
 $secondary : #F64C72;
@@ -9,58 +9,16 @@ $negative  : #C10015;
 $info      : #31CCEC;
 $warning   : #F2C037;
 
-// responsive Container specs
+// responsive breakpoint specs
 $xs-breakpoint: 718px;
 $sm-breakpoint: 1024px;
 $md-breakpoint: 1439px;
 $lg-breakpoint: 1920px;
 
-.container,
-.container-sm,
-.container-md,
-.container-lg,
-.container-xl {
-  width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-}
 
-@media (min-width: $xs-breakpoint) {
-  .container,
-  .container-sm {
-    max-width: 540px;
-  }
-}
 
-@media (min-width: $sm-breakpoint) {
-  .container,
-  .container-sm,
-  .container-md {
-    max-width: 920px;
-  }
-}
-
-@media (min-width: $md-breakpoint) {
-  .container,
-  .container-sm,
-  .container-md,
-  .container-lg {
-    max-width: 1140px;
-  }
-}
-
-@media (min-width: $lg-breakpoint) {
-  .container,
-  .container-sm,
-  .container-md,
-  .container-lg,
-  .container-xl {
-    max-width: 1440px;
-  }
-}
-
-$h1:        (size: 5rem,     line-height: 6rem,     letter-spacing: -.01562em, weight: 600) !default;
-$h2:        (size: 3.75rem,  line-height: 3.75rem,  letter-spacing: -.00833em, weight: 300) !default;
+$h1:        (size: 48px,     line-height: 3.75rem,     letter-spacing: -.01562em, weight: 600) !default;
+$h2:        (size: 28px,  line-height: 3.75rem,  letter-spacing: -.00833em, weight: 300) !default;
 $h3:        (size: 3rem,     line-height: 3.125rem, letter-spacing: normal,    weight: 400) !default;
 $h4:        (size: 2.125rem, line-height: 2.5rem,   letter-spacing: .00735em,  weight: 400) !default;
 $h5:        (size: 1.5rem,   line-height: 2rem,     letter-spacing: normal,    weight: 400) !default;
