@@ -1,20 +1,23 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
-
-    <q-page-container>
-      <HelloWorld />
-    </q-page-container>
+  <q-layout view="lHh lpR lfr">
+    <TheHeader></TheHeader>
+    <q-footer elevated class="bg-grey-8 text-white">
+      <q-toolbar class="container">
+        <q-toolbar-title>
+          <div>Hicham Sahla</div>
+        </q-toolbar-title>
+      </q-toolbar>
+    </q-footer>
   </q-layout>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TheHeader from "./components/layout/TheHeader.vue";
 
 export default {
-  name: 'LayoutDefault',
-
+  name: "LayoutDefault",
   components: {
-    HelloWorld
+    TheHeader,
   },
-}
+};
 </script>
