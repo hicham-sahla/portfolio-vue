@@ -18,7 +18,7 @@ $lg-breakpoint: 1920px;
 
 
 $h1:        (size: 48px,     line-height: 3.75rem,     letter-spacing: -.01562em, weight: 600) !default;
-$h2:        (size: 28px,  line-height: 3.75rem,  letter-spacing: -.00833em, weight: 300) !default;
+$h2:        (size: 32px,  line-height: 3.75rem,  letter-spacing: -.00833em, weight: 800) !default;
 $h3:        (size: 3rem,     line-height: 3.125rem, letter-spacing: normal,    weight: 400) !default;
 $h4:        (size: 2.125rem, line-height: 2.5rem,   letter-spacing: .00735em,  weight: 400) !default;
 $h5:        (size: 1.5rem,   line-height: 2rem,     letter-spacing: normal,    weight: 400) !default;
@@ -29,5 +29,7 @@ $body1:     (size: 1rem,     line-height: 1.5rem,   letter-spacing: .03125em,  w
 $body2:     (size: .875rem,  line-height: 1.25rem,  letter-spacing: .01786em,  weight: 400) !default;
 $overline:  (size: .75rem,   line-height: 2rem,     letter-spacing: .16667em,  weight: 500) !default;
 $caption:   (size: .75rem,   line-height: 1.25rem,  letter-spacing: .03333em,  weight: 400) !default;
-
+p {
+  font-size: 16px;
+}
 @import '~quasar-variables-styl'
