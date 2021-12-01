@@ -8,7 +8,7 @@
 import Projects from "../UI/Projects.vue";
 
 export default {
-  name: "TheAboutMe",
+  name: "TheProjects",
   components: {
     Projects,
 

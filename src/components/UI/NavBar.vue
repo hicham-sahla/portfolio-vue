@@ -11,26 +11,8 @@
       <q-toolbar-title v-else class="text-primary">
         Hicham Sahla
       </q-toolbar-title>
-      <q-btn
-        v-if="scrollPosition > 50"
-        rounded
-        outline
-        color="white"
-        no-caps
-        size="lg"
-        icon-right="article"
-        label="Bekijk me CV"
-      />
-      <q-btn
-        v-else
-        rounded
-        outline
-        color="primary"
-        no-caps
-        size="lg"
-        icon-right="article"
-        label="Bekijk me CV"
-      />
+      <a v-if="scrollPosition > 50" target="_blank" href="https://www.nu.nl/" class="btn btn-light">Bekijk mijn CV</a>
+      <a v-else target="_blank" href="https://www.nu.nl/" class="btn btn-primary">Bekijk mijn CV</a>
     </q-toolbar>
   </q-header>
 </template>
