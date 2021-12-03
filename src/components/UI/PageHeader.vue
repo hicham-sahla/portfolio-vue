@@ -3,7 +3,7 @@
     <div class="col-12">
       <h1 class="text-center bold q-ma-none">Hi! Ik ben Hicham</h1>
       <h4 class="text-center q-mt-xs">
-        Gepassioneerde webdeveloper en designer
+        Gepassioneerde webdeveloper en ontwerper
       </h4>
     </div>
     <div class="col-12 flex flex-center q-mb-xl">

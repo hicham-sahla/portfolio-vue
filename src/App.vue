@@ -3,6 +3,7 @@
     <TheHeader></TheHeader>
     <TheAboutMe></TheAboutMe>
     <TheProjects></TheProjects>
+    <TheFooter></TheFooter>
   </q-layout>
 </template>
 
@@ -10,13 +11,15 @@
 import TheHeader from "./components/layout/TheHeader.vue";
 import TheAboutMe from "./components/layout/TheAboutMe.vue";
 import TheProjects from "./components/layout/TheProjects.vue";
+import TheFooter from "./components/layout/TheFooter.vue";
 
 export default {
   name: "LayoutDefault",
   components: {
     TheHeader,
     TheAboutMe,
-    TheProjects
+    TheProjects,
+    TheFooter
   },
 };
 </script>
