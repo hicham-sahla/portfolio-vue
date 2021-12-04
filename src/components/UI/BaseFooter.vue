@@ -5,7 +5,7 @@
         <div class="row flex flex-center align-center">
           <div class="col-lg-4"><h2>Interesse of vragen?</h2></div>
           <div class="col-lg-4">
-            <p>
+            <p class="text-center">
               Geintresseerd in een samenwerking of een gesprek?<br />
               Neem gerust contact op.
             </p>
