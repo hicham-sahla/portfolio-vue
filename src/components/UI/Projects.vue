@@ -1,7 +1,7 @@
 <template>
   <div class="row my-skills flex q-px-xl q-py-xl flex-center">
     <div class="col-12">
-      <h2 class="text-center">Recente projecten</h2>
+      <h2 class="text-center text-primary">Recente projecten</h2>
       <p class="text-center">
         Hier zijn een aantal projecten waar ik aan mee heb kunnen werken.
       </p>
@@ -32,7 +32,7 @@
             <p>Een responsive website ontwerp voor de gemeente Rotterdam</p>
             <div class="skills-used">Adobe XD</div>
             <br />
-            <a href="" class="btn btn-light">Lees meer</a>
+            <a href="https://files.hichamsahla.nl/plogdedag.pdf" class="btn btn-light">Lees meer</a>
           </div>
         </div>
       </q-img>

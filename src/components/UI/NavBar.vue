@@ -11,8 +11,8 @@
       <q-toolbar-title v-else class="text-primary">
         Hicham Sahla
       </q-toolbar-title>
-      <a v-if="scrollPosition > 50" target="_blank" href="https://www.nu.nl/" class="btn btn-light">Bekijk mijn CV</a>
-      <a v-else target="_blank" href="https://www.nu.nl/" class="btn btn-primary">Bekijk mijn CV</a>
+      <a v-if="scrollPosition > 50" target="_blank" href="https://files.hichamsahla.nl/cv-hichamsahla.pdf" class="btn btn-light">Bekijk mijn CV</a>
+      <a v-else target="_blank" href="https://files.hichamsahla.nl/cv-hichamsahla.pdf" class="btn btn-primary">Bekijk mijn CV</a>
     </q-toolbar>
   </q-header>
 </template>
