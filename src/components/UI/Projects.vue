@@ -6,7 +6,7 @@
         Hier zijn een aantal projecten waar ik aan mee heb kunnen werken.
       </p>
     </div>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/portfolio.jpg">
         <div class="overlay">
           <div class="text">
@@ -24,7 +24,7 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/plog.jpg">
         <div class="overlay">
           <div class="text">
@@ -37,7 +37,7 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/simpleleads.jpg">
         <div class="overlay">
           <div class="text">
@@ -55,13 +55,13 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/gvp.jpg">
         <div class="overlay">
           <div class="text">
             <h6 class="q-mb-none">Grond voor Particulieren</h6>
             <p>
-              "Een maatwerk website voor de nieuwe generatie grond bezitters"
+              "Een maatwerk website voor leadgeneratie"
             </p>
             <div class="skills-used">HTML5 / SCSS / JavaScript / PHP</div>
             <br />
@@ -75,7 +75,7 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/flowerup.jpg">
         <div class="overlay">
           <div class="text">
@@ -96,14 +96,13 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/goosptc.jpg">
         <div class="overlay">
           <div class="text">
             <h6 class="q-mb-none">GoosPTC</h6>
             <p>
-              "Een uitgebreide responsive website met boekingsmodule en
-              klantbeoordelingen"
+              "Een uitgebreide responsive website met boekingsmodule"
             </p>
             <div class="skills-used">HTML5 / SCSS / JavaScript / PHP</div>
             <br />
@@ -117,7 +116,7 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/pivoton.jpg">
         <div class="overlay">
           <div class="text">
@@ -135,7 +134,7 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/afm.jpg">
         <div class="overlay">
           <div class="text">
@@ -153,7 +152,7 @@
         </div>
       </q-img>
     </q-card>
-    <q-card class="my-card col-12 col-sm-5 col-md-3 shadow-5">
+    <q-card class="my-card col-12 col-sm-5 col-lg-3 shadow-5">
       <q-img src="../../assets/afilter.jpg">
         <div class="overlay">
           <div class="text">

@@ -1,17 +1,17 @@
 #Projects {
-  padding-top: 0!important;
-  padding-bottom: 80px!important;
+  padding-top: 0 !important;
+  padding-bottom: 80px !important;
   .my-skills {
     gap: 15px;
     .my-card {
       border-radius: 10px;
       .skills-used {
         color: white;
-        font-size: 13px;
+        font-size: 12px;
       }
       .btn {
-          padding: 0.5em 2em;
-          margin-bottom: 20px;
+        padding: 0.5em 1em;
+        margin-bottom: 20px;
       }
     }
     .my-card:hover .overlay {
@@ -19,7 +19,15 @@
     }
     .overlay {
       h6 {
+        @media only screen and (max-width: 600px) {
+        font-size: 16px!important;
+        }
         margin-top: 0;
+      }
+      p {
+               @media only screen and (max-width: 600px) {
+        font-size: 13px!important;
+        }
       }
       position: absolute;
       padding-bottom: 10px;

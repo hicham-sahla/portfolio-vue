@@ -3,14 +3,14 @@
     <div class="row contact flex flex-center">
       <div class="shadow-5 card q-pa-xl rounded col-lg-8">
         <div class="row flex flex-center align-center">
-          <div class="col-lg-4"><h2>Interesse of vragen?</h2></div>
-          <div class="col-lg-4">
+          <div><h2>Interesse of vragen?</h2></div>
+          <div class="">
             <p class="text-center">
               Geintresseerd in een samenwerking of een gesprek?<br />
               Neem gerust contact op.
             </p>
           </div>
-          <div class="col-lg-4 contact-btn">
+          <div class=" contact-btn">
             <a class="btn btn-light" href="mailto:hichamsahla91@gmail.com">Neem contact op</a>
           </div>
         </div>
