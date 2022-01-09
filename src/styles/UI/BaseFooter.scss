@@ -1,0 +1,37 @@
+#footer {
+  .contact {
+    .card {
+      @media only screen and (max-width: 1960px) {
+        .row {
+          gap: 20px;
+        }
+      }
+
+      h2 {
+        margin: 0;
+        line-height: 35px;
+        float: left;
+      }
+      background-color: $accent;
+      border-radius: 15px;
+      margin-top: -90px;
+      a {
+        float: right;
+      }
+      p {
+        margin: 0;
+       text-align: left;
+      }
+    }
+  }
+  .footer {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    .social-media {
+      margin: 10px;
+      img:hover {
+        background-color: $secondary;
+      }
+    }
+  }
+}

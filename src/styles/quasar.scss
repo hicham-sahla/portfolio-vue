@@ -1,0 +1,16 @@
+@import "./quasar.variables.scss";
+@import "~quasar-styl";
+
+// Import general .SCSS files
+@import "general.scss";
+
+// Import layout .SCSS files
+@import "layout/TheHeader.scss";
+
+// Import UI compontents .SCSS files
+@import "UI/NavBar.scss";
+@import "UI/PageHeader.scss";
+@import "UI/AboutMe.scss";
+@import "UI/MySkills.scss";
+@import "UI/Projects.scss";
+@import "UI/BaseFooter.scss";
